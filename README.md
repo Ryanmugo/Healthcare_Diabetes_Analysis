@@ -56,10 +56,10 @@ This project focuses on analyzing healthcare data using Python libraries such as
 
 # Findings:
 
-a) Average Age in the database was 33 years.
-b) Average BMI was 32.14 indicating most guys are obese.
-c) Average Glucose Level of an individual is 121.1 indicating most guys are Pre-Diabetes.
-d) Number of Obese guys are 1704, Overweight are 654, Normal Weight are 357, Underweight are 53.
-e) Number of guys who are Diabetic are 1086, Pre-Diabetes are 1682.
-f) There is no relationship between Age and BMI based from linear regression analysis that i undertook.
-g) There is relationship between BMI and Outcome(1 representing diabetic and 0 representing non-diabetic) based from linear regression analysis that i undertook.
+ - a) Average Age in the database was 33 years.
+ - b) Average BMI was 32.14 indicating most guys are obese.
+ - c) Average Glucose Level of an individual is 121.1 indicating most guys are Pre-Diabetes.
+ - d) Number of Obese guys are 1704, Overweight are 654, Normal Weight are 357, Underweight are 53.
+ - e) Number of guys who are Diabetic are 1086, Pre-Diabetes are 1682.
+ - f) There is no relationship between Age and BMI based from linear regression analysis that i undertook.
+ - g) There is relationship between BMI and Outcome(1 representing diabetic and 0 representing non-diabetic) based from linear regression analysis that i undertook.
